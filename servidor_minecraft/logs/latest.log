@@ -1,0 +1,55 @@
+[00:00:17] [Async Chat Thread - #4/INFO]: [Not Secure] <Marcos_vel2> eu ya en unos momentos va a empesar un evento a saver que va a tocar
+[00:02:33] [Server thread/INFO]: [WorldEvents] Executing event: iron-abundance (ID: iron-abundance_1777766553450, type: MODIFY_BLOCK_DROPS, duration: 540s)
+[00:02:33] [Server thread/INFO]: [com.worldevents.handlers.BlockDropsHandler] Activating block drops handler for event: iron-abundance
+[00:02:33] [Server thread/INFO]: [com.worldevents.handlers.BlockDropsHandler] Activated BlockDropsHandler for event: iron-abundance with 2 target block(s), 1 custom drop(s), and 0 command trigger(s) (active block drop events: 1)
+[00:02:33] [Server thread/INFO]: [WorldEvents] Successfully started event: iron-abundance (ID: iron-abundance_1777766553450, duration: 540 seconds, active events: 1/3)
+[00:02:33] [Server thread/INFO]: [WorldEvents] Next event cycle scheduled in 30 minutes (36000 ticks)
+[00:02:37] [Server thread/INFO]: Marcos_vel2 issued server command: /wevent info iron-abundance
+[00:02:38] [Server thread/INFO]: [WorldEvents] Executing event: eternal-equipment (ID: eternal-equipment_1777766558449, type: DURABILITY_PROTECTION, duration: 360s)
+[00:02:38] [Server thread/INFO]: [WorldEvents] Successfully started event: eternal-equipment (ID: eternal-equipment_1777766558449, duration: 360 seconds, active events: 2/3)
+[00:02:42] [Server thread/INFO]: Marcos_vel2 issued server command: /wevent info eternal-equipment
+[00:02:43] [Server thread/INFO]: [WorldEvents] Executing event: desert-heat (ID: desert-heat_1777766563449, type: SOLAR_FLARE, duration: 300s)
+[00:02:43] [Server thread/INFO]: [WorldEvents] Solar Flare effect activated
+[00:02:43] [Server thread/INFO]: [WorldEvents] Successfully started event: desert-heat (ID: desert-heat_1777766563449, duration: 300 seconds, active events: 3/3)
+[00:02:45] [Server thread/INFO]: Marcos_vel2 issued server command: /wevent info desert-heat
+[00:03:50] [Async Chat Thread - #6/INFO]: [Not Secure] <.Atom7767> me quemo
+[00:03:59] [Async Chat Thread - #6/INFO]: [Not Secure] <Marcos_vel2> si el sol quema
+[00:07:43] [Server thread/INFO]: [WorldEvents] Solar Flare effect deactivated
+[00:07:43] [Server thread/INFO]: [WorldEvents] Stopped event: desert-heat (ID: desert-heat_1777766563449)
+[00:08:38] [Server thread/INFO]: [WorldEvents] Stopped event: eternal-equipment (ID: eternal-equipment_1777766558449)
+[00:11:16] [Async Chat Thread - #8/INFO]: [Not Secure] <.Atom7767> De otro rato me conecto voy hacer algo
+[00:11:21] [Async Chat Thread - #8/INFO]: [Not Secure] <Marcos_vel2> okey
+[00:11:26] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Atom7767 has disconnected from the Java server because of Bedrock client disconnected
+[00:11:26] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Atom7767 disconnected
+[00:11:26] [Server thread/INFO]: .Atom7767 lost connection: Disconnected
+[00:11:26] [Server thread/INFO]: .Atom7767 left the game
+[00:11:33] [Server thread/INFO]: [com.worldevents.handlers.BlockDropsHandler] Deactivating BlockDropsHandler for event: iron-abundance
+[00:11:33] [Server thread/INFO]: [WorldEvents] Stopped event: iron-abundance (ID: iron-abundance_1777766553450)
+[00:15:16] [Server thread/INFO]: Marcos_vel2 was shot by Skeleton
+[00:18:41] [Server thread/INFO]: Marcos_vel2 was slain by Spider
+[00:32:33] [Server thread/INFO]: [WorldEvents] Executing event: gravity_trees (ID: gravity_trees_1777768353448, type: GRAVITY_TREES, duration: 240s)
+[00:32:33] [Server thread/INFO]: [WorldEvents] Gravity Trees effect activated
+[00:32:33] [Server thread/INFO]: [WorldEvents] Successfully started event: gravity_trees (ID: gravity_trees_1777768353448, duration: 240 seconds, active events: 1/3)
+[00:32:33] [Server thread/INFO]: [WorldEvents] Next event cycle scheduled in 30 minutes (36000 ticks)
+[00:32:38] [Server thread/INFO]: [WorldEvents] Executing event: unbreakable-tools (ID: unbreakable-tools_1777768358448, type: DURABILITY_PROTECTION, duration: 480s)
+[00:32:38] [Server thread/INFO]: [WorldEvents] Successfully started event: unbreakable-tools (ID: unbreakable-tools_1777768358448, duration: 480 seconds, active events: 2/3)
+[00:32:43] [Server thread/INFO]: [WorldEvents] Executing event: emerald-rush (ID: emerald-rush_1777768363448, type: MODIFY_BLOCK_DROPS, duration: 360s)
+[00:32:43] [Server thread/INFO]: [com.worldevents.handlers.BlockDropsHandler] Activating block drops handler for event: emerald-rush
+[00:32:43] [Server thread/INFO]: [com.worldevents.handlers.BlockDropsHandler] Activated BlockDropsHandler for event: emerald-rush with 2 target block(s), 2 custom drop(s), and 0 command trigger(s) (active block drop events: 1)
+[00:32:43] [Server thread/INFO]: [WorldEvents] Successfully started event: emerald-rush (ID: emerald-rush_1777768363448, duration: 360 seconds, active events: 3/3)
+[00:36:33] [Server thread/INFO]: [WorldEvents] Gravity Trees effect deactivated
+[00:36:33] [Server thread/INFO]: [WorldEvents] Stopped event: gravity_trees (ID: gravity_trees_1777768353448)
+[00:38:43] [Server thread/INFO]: [com.worldevents.handlers.BlockDropsHandler] Deactivating BlockDropsHandler for event: emerald-rush
+[00:38:43] [Server thread/INFO]: [WorldEvents] Stopped event: emerald-rush (ID: emerald-rush_1777768363448)
+[00:40:38] [Server thread/INFO]: [WorldEvents] Stopped event: unbreakable-tools (ID: unbreakable-tools_1777768358448)
+[01:02:33] [Server thread/INFO]: [WorldEvents] Executing event: explosion-shield (ID: explosion-shield_1777770153448, type: DAMAGE_IMMUNITY, duration: 300s)
+[01:02:33] [Server thread/INFO]: [WorldEvents] Successfully started event: explosion-shield (ID: explosion-shield_1777770153448, duration: 300 seconds, active events: 1/3)
+[01:02:33] [Server thread/INFO]: [WorldEvents] Next event cycle scheduled in 30 minutes (36000 ticks)
+[01:02:38] [Server thread/INFO]: [WorldEvents] Executing event: fire-resistance (ID: fire-resistance_1777770158448, type: POTION_EFFECT, duration: 360s)
+[01:02:38] [Server thread/INFO]: [com.worldevents.handlers.PotionEffectHandler] Activating potion effect handler for event: fire-resistance
+[01:02:38] [Server thread/INFO]: [com.worldevents.handlers.PotionEffectHandler] Applied 1 potion effect(s) to 1/1 player(s) for event: fire-resistance (active potion events: 1)
+[01:02:38] [Server thread/INFO]: [WorldEvents] Successfully started event: fire-resistance (ID: fire-resistance_1777770158448, duration: 360 seconds, active events: 2/3)
+[01:02:43] [Server thread/INFO]: [WorldEvents] Executing event: speed-boost (ID: speed-boost_1777770163448, type: POTION_EFFECT, duration: 300s)
+[01:02:43] [Server thread/INFO]: [com.worldevents.handlers.PotionEffectHandler] Activating potion effect handler for event: speed-boost
+[01:02:43] [Server thread/INFO]: [com.worldevents.handlers.PotionEffectHandler] Applied 2 potion effect(s) to 1/1 player(s) for event: speed-boost (active potion events: 2)
+[01:02:43] [Server thread/INFO]: [WorldEvents] Successfully started event: speed-boost (ID: speed-boost_1777770163448, duration: 300 seconds, active events: 3/3)
